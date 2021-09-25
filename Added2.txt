@@ -1,0 +1,2 @@
+Added2
+move to unstage - from stage
